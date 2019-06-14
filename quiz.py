@@ -1,5 +1,3 @@
-# import sys
-# import cryptography
 from cryptography.fernet import Fernet
 
 key = 'TluxwB3fV_GWuLkR1_BzGs1Zk90TYAuhNMZP_0q4WyM='
